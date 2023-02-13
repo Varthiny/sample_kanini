@@ -1,0 +1,41 @@
+﻿body{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    
+
+}
+#logo {
+    background-color: #609EA2;
+    font-size: large;
+    font-size:50px;
+    font-family: Harrington;
+    position:relative;
+    height:145px;
+    padding:20px 20px 20px 20px;
+}
+.flex-container{
+    display:flex;
+    
+}
+#menubar {
+    background-color: #DEFCF9;
+    font-size:x-large;
+    font-size:18px;
+    font-family:'Franklin Gothic Medium';
+    color:palevioletred;
+    position:relative;
+    height:20px;
+    padding:20px 20px 20px 20px
+
+}
+/*.background{
+    
+    height: 100vh;
+    background-image:url('./images/Background.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center;
+}*/
+
+

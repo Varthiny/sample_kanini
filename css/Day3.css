@@ -1,0 +1,24 @@
+﻿body
+{
+    background-color: aqua;
+}
+section{
+    /*border-color: mediumaquamarine;
+    border-width: 6px;
+*/
+   /* border-color:black;
+    border-width:medium;
+    border-style:double;*/ 
+    border: 5px dotted blue;
+}
+label#txtName
+{
+    border:solid black 2px;
+    font-family:'Monotype Corsiva';
+    font-style:italic;
+    color:brown;
+    font-size:2em;
+}
+dd.clsMain,article.clsMain{
+    background-color: purple;
+}
